@@ -7,8 +7,8 @@ H<!doctype html>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
   <title>Triple Shot Software</title>
-  <meta name="keywords" content="iPhone development, iPad Development, mobile app development, Swift development, Paul Norton, Triple Shot Software, Seattle WA" />
-  <meta name="description" content="Triple Shot Software, Seattle WA, does custom mobile development for iOS." />
+  <meta name="keywords" content="Android development, iPhone development, iPad Development, mobile app development, flutter, Java contract programming, custom Swift development, Paul Norton, Triple Shot Software, Seattle WA" />
+  <meta name="description" content="Triple Shot Software, Seattle WA, does custom mobile development for iOS and Android." />
   <link rel="shortcut icon" href="favicon.ico"/>
   <meta name="robots" content="noodp"/>
   <meta name=viewport content="width=device-width">
@@ -46,7 +46,7 @@ H<!doctype html>
     </div>
     <div class=right_side>
       <img id=uml src="img/UML.jpg" width=394 height=290 alt="Image is a whiteboard with flow-chart or UML diagram."/>
-
+      
     </div>
   </div>
   <footer>
